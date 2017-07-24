@@ -1,0 +1,50 @@
+[package]
+name = "rust-mini-utils"
+version = "0.1.0"
+authors = ["justinwoo <moomoowoo@gmail.com>"]
+
+[[bin]]
+name = "c"
+path = "src/c.rs"
+
+[[bin]]
+name = "ga"
+path = "src/ga.rs"
+
+[[bin]]
+name = "gap"
+path = "src/gap.rs"
+
+[[bin]]
+name = "gca"
+path = "src/gca.rs"
+
+[[bin]]
+name = "gcane"
+path = "src/gcane.rs"
+
+[[bin]]
+name = "gib"
+path = "src/gib.rs"
+
+[[bin]]
+name = "gil"
+path = "src/gil.rs"
+
+[[bin]]
+name = "gpm"
+path = "src/gpm.rs"
+
+[[bin]]
+name = "gpo"
+path = "src/gpo.rs"
+
+[[bin]]
+name = "nv"
+path = "src/nv.rs"
+
+[[bin]]
+name = "vi"
+path = "src/vi.rs"
+
+[dependencies]
