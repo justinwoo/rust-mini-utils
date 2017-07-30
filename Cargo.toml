@@ -16,6 +16,10 @@ name = "gap"
 path = "src/gap.rs"
 
 [[bin]]
+name = "gbn"
+path = "src/gbn.rs"
+
+[[bin]]
 name = "gca"
 path = "src/gca.rs"
 
@@ -38,6 +42,10 @@ path = "src/gpm.rs"
 [[bin]]
 name = "gpo"
 path = "src/gpo.rs"
+
+[[bin]]
+name = "gpp"
+path = "src/gpp.rs"
 
 [[bin]]
 name = "nv"
