@@ -32,6 +32,10 @@ name = "gib"
 path = "src/gib.rs"
 
 [[bin]]
+name = "gis"
+path = "src/gis.rs"
+
+[[bin]]
 name = "gil"
 path = "src/gil.rs"
 
