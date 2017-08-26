@@ -4,10 +4,6 @@ version = "0.1.0"
 authors = ["justinwoo <moomoowoo@gmail.com>"]
 
 [[bin]]
-name = "c"
-path = "src/c.rs"
-
-[[bin]]
 name = "ga"
 path = "src/ga.rs"
 
@@ -32,6 +28,14 @@ name = "gib"
 path = "src/gib.rs"
 
 [[bin]]
+name = "gid"
+path = "src/gid.rs"
+
+[[bin]]
+name = "gids"
+path = "src/gids.rs"
+
+[[bin]]
 name = "gis"
 path = "src/gis.rs"
 
@@ -54,6 +58,10 @@ path = "src/gpp.rs"
 [[bin]]
 name = "nv"
 path = "src/nv.rs"
+
+[[bin]]
+name = "rem"
+path = "src/rem.rs"
 
 [[bin]]
 name = "vi"
